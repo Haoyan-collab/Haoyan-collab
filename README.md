@@ -14,37 +14,34 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>Hi there 👋, I'm Haoyan (Kilian) Shi</h1>
-  <h3>ML/AI Research Engineer | MS Student @ CMU</h3>
+  <p><b>ML/AI Research Engineer | MS Student @ Carnegie Mellon University</b></p>
 </div>
 
-<!-- Introduction Section -->
-I am a Master's student in Mobile and IoT Engineering (MSMITE) at **Carnegie Mellon University**, with a strong background in **Computer Vision, Deep Learning, and RAG architectures**. My research primarily focuses on medical image/video segmentation and vision foundation models.
+<!-- Short Bio -->
+I am a Master's student in Mobile and IoT Engineering (MSMITE) at **CMU**, specializing in **Computer Vision, Deep Learning, and RAG architectures**. My previous research at the University of Notre Dame focused on medical image/video segmentation and vision foundation models (SAM2/SAM3, DINOv3).
 
-🎓 Currently, I am dedicating my time to my graduate studies at CMU and exploring new opportunities in ML/AI research and engineering! 
+### 🚀 Open to Opportunities
 
-### 🔬 Selected Research & Publications
+I am actively seeking and open to:
+*   👨‍💻 **AI / Software Engineering Internships**
+*   🔬 **Academic Research Collaborations** 
+*   💡 **Open-source Projects & Hackathons** (Especially in CV, LLM/RAG, or Full-stack dev)
 
-- **[IEEE ISBI 2026] U-KAST:** Kolmogorov-Arnold Swin Transformer for Medical Image Segmentation. Designed a novel architecture integrating GR-KANs into Swin Transformers to reduce computational overhead.
-- **[MICCAI 2026] D-GEM:** Sparsely Supervised Surgical Video Segmentation. Contributed to a decoupled memory framework built upon self-supervised DINOv3 representations.
-- **SIGN:** Sperm Head Morphology Classification with Vision Foundation Models (SAM3, DINOv3, ResNet50) using INR-guided frameworks.
-- **Intelligent Dental Lesion System:** Two-stage diagnostic pipeline fine-tuning YOLOv8-Seg and Swin Transformers (0.8613 F1).
+If you are working on exciting AI/ML challenges or looking for a dedicated engineer/researcher, let's connect!
 
-### 🛠️ Tech Stack & Skills
+### 🌐 Connect & Learn More
 
-<!-- Tech Badges -->
-- **AI/ML & Vision:** PyTorch, MONAI, Swin Transformer, SAM2/SAM3, DINOv3, YOLOv8, KAN, OpenCV
-- **LLM & Search:** RAG, ChromaDB, BM25, HyDE
-- **Backend & Web:** Python, Java, C/C++, FastAPI, Django, Spring Boot, SQL
-- **Tools & Infra:** Docker, Git
+<!-- Redirecting traffic to personal website -->
+- 🌍 **Portfolio & Publications:** [Check out my personal website](https://Haoyan-collab.github.io) 
+- ✉️ **Email:** <a href="mailto:haoyans@andrew.cmu.edu">haoyans@andrew.cmu.edu</a>
+- 🛠️ **Core Tech Stack:** PyTorch, FastAPI, Spring Boot, Vue 3, Docker
 
-### 💼 Experience Highlights
-
-- **AI Intern @ Ericsson:** Developed an end-to-end Fusion-RAG AI search platform, optimizing retrieval accuracy by ~10% with LLM-as-a-Judge pipelines.
-- **Back-End Intern @ Beijing Silu Innovation:** Modernized legacy web modules to Spring Boot/Vue and built automated data extraction tools.
-
-### 📊 GitHub Stats
-
-<!-- GitHub Stats Cards -->
+<!-- Minimal Stats -->
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haoyan-collab&show_icons=true&theme=radium&hide_border=true&v=2" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyan-collab&layout=compact&theme=radium&hide_border=true&v=2" alt="Top Languages" height="150" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haoyan-collab&show_icons=true&theme=radium" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyan-collab&layout=compact&theme=radium" alt="Top Languages" />
