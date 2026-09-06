@@ -46,6 +46,3 @@ If you are working on exciting AI/ML challenges or looking for a dedicated engin
   <img src="https://github-readme-stats.vercel.app/api?username=Haoyan-collab&show_icons=true&theme=radium" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyan-collab&layout=compact&theme=radium" alt="Top Languages" />
 </div>
-
-<!-- Footer Note -->
-<p align="center">Feel free to reach out via <a href="mailto:haoyans@andrew.cmu.edu">Email</a>!</p>
