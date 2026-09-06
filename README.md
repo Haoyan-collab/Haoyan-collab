@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Short Bio -->
-I am a Master's student in Mobile and IoT Engineering (MSMITE) at **CMU**, specializing in **Computer Vision, Deep Learning, and RAG architectures**. My previous research at the University of Notre Dame focused on medical image/video segmentation and vision foundation models (SAM2/SAM3, DINOv3).
+I am a Master's student in Mobile and IoT Engineering (MSMITE) at **CMU**, specializing in **Computer Vision, Deep Learning, and RAG architectures**. My previous research at the University of Notre Dame focused on medical image/video segmentation and vision foundation models.
 
 ### 🚀 Open to Opportunities
 
