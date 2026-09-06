@@ -36,13 +36,4 @@ If you are working on exciting AI/ML challenges or looking for a dedicated engin
 - ✉️ **Email:** <a href="mailto:haoyans@andrew.cmu.edu">haoyans@andrew.cmu.edu</a>
 - 🛠️ **Core Tech Stack:** PyTorch, FastAPI, Spring Boot, Vue 3, Docker
 
-<!-- Minimal Stats -->
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haoyan-collab&show_icons=true&theme=radium&hide_border=true&v=2" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyan-collab&layout=compact&theme=radium&hide_border=true&v=2" alt="Top Languages" height="150" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haoyan-collab&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyan-collab&layout=compact&theme=radium" alt="Top Languages" />
-</div>
+
