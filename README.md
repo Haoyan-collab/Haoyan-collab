@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+**Haoyan-collab/Haoyan-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 <div align="center">
   <h1>Hi there 👋, I'm Haoyan (Kilian) Shi</h1>
   <p><b>ML/AI Research Engineer | MS Student @ Carnegie Mellon University</b></p>
@@ -23,9 +26,9 @@ I am a Master's student in Mobile and IoT Engineering (MSMITE) at **CMU**, speci
 ### 🚀 Open to Opportunities
 
 I am actively seeking and open to:
-*   👨‍💻 **AI / Software Engineering Internships**
+*   👨‍💻 **AI / Machine Learning Internships**
 *   🔬 **Academic Research Collaborations** 
-*   💡 **Open-source Projects & Hackathons** (Especially in CV, LLM/RAG, or Full-stack dev)
+*   💡 **Open-source Projects** (CV, Vision Foundation Models, LLM/RAG)
 
 If you are working on exciting AI/ML challenges or looking for a dedicated engineer/researcher, let's connect!
 
@@ -34,6 +37,9 @@ If you are working on exciting AI/ML challenges or looking for a dedicated engin
 <!-- Redirecting traffic to personal website -->
 - 🌍 **Portfolio & Publications:** [Check out my personal website](https://Haoyan-collab.github.io) 
 - ✉️ **Email:** <a href="mailto:haoyans@andrew.cmu.edu">haoyans@andrew.cmu.edu</a>
-- 🛠️ **Core Tech Stack:** PyTorch, FastAPI, Spring Boot, Vue 3, Docker
+
+### 🛠️ Core Tech Stack
+- **AI & Algorithms:** PyTorch, MONAI, Vision Foundation Models, RAG
+- **Engineering & Deployment:** Python, FastAPI, C++, Docker
 
 
