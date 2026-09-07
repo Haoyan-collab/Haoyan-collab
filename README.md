@@ -32,14 +32,14 @@ I am actively seeking and open to:
 
 If you are working on exciting AI/ML challenges or looking for a dedicated engineer/researcher, let's connect!
 
-### 🌐 Connect & Learn More
+### 🛠️ Core Tech Stack
+- **AI & Algorithms:** PyTorch, MONAI, Vision Foundation Models, RAG
+- **Engineering & Deployment:** Python, FastAPI, C++, Docker
 
+### 🌐 Connect & Learn More
 <!-- Redirecting traffic to personal website -->
 - 🌍 **Portfolio & Publications:** [Check out my personal website](https://Haoyan-collab.github.io) 
 - ✉️ **Email:** <a href="mailto:haoyans@andrew.cmu.edu">haoyans@andrew.cmu.edu</a>
 
-### 🛠️ Core Tech Stack
-- **AI & Algorithms:** PyTorch, MONAI, Vision Foundation Models, RAG
-- **Engineering & Deployment:** Python, FastAPI, C++, Docker
 
 
