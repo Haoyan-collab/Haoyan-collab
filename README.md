@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 **Haoyan-collab/Haoyan-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
-  <h1>Hi there 👋, I'm Haoyan (Kilian) Shi</h1>
+  <h1>Hi there 👋, I'm Kilian Shi</h1>
   <p><b>ML/AI Research Engineer | MS Student @ Carnegie Mellon University</b></p>
 </div>
 
